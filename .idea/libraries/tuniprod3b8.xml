@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tuniprod3b8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tuniprod3b8/dist/tuniprod3b8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
